@@ -1,0 +1,29 @@
+HKskQXwOpCL0kOsQ
+
+This project collect on: https://www.youtube.com/watch?v=cBg6xA5C60s&list=PLwOkBvSfLHji1gp9iPXEIMSsbnL4fFe3C&index=54&t=10304s
+
+query search params files name
+search.js, users > page.js , lib > data.js
+paginations files name
+pagination.js, users > page.js , lib > data.js
+users and product add, delete mongodb = lib > actions.js
+
+MONGO=mongodb+srv://developermezbah:HKskQXwOpCL0kOsQ@cluster0.xd7uiw2.mongodb.net/dashboard?retryWrites=true&w=majority
+
+
+
+            learn
+revalidatePath()
+
+
+// how to use this project
+ => ENV file name
+MONGO=
+AUTH_SECRET=
+AUTH_URL=http://localhost:3000/api/auth
+
+
+
+username: mezbah
+password: mezbah
+
